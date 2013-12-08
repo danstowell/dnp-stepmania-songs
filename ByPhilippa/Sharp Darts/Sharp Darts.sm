@@ -1,0 +1,157 @@
+#TITLE:Sharp Darts;
+#SUBTITLE:;
+#ARTIST:The Streets;
+#TITLETRANSLIT:;
+#SUBTITLETRANSLIT:;
+#ARTISTTRANSLIT:;
+#GENRE:;
+#CREDIT:;
+#BANNER:;
+#BACKGROUND:sharpdarts-bg.jpg;
+#LYRICSPATH:;
+#CDTITLE:;
+#MUSIC:sharpdarts.mp3;
+#OFFSET:0.000;
+#SAMPLESTART:62.368;
+#SAMPLELENGTH:12.000;
+#SELECTABLE:YES;
+#BPMS:0.000=110.000,2.000=94.000;
+#STOPS:;
+#BGCHANGES:;
+#KEYSOUNDS:;
+
+//---------------dance-single - Blank----------------
+#NOTES:
+     dance-single:
+     Blank:
+     Beginner:
+     1:
+     0.117,0.099,0.000,0.086,0.000:
+  // measure 1
+0000
+0000
+1000
+0010
+,  // measure 2
+1000
+0010
+0001
+0010
+,  // measure 3
+0001
+0010
+0100
+1000
+,  // measure 4
+0100
+1000
+0100
+0001
+,  // measure 5
+0100
+0001
+0200
+0001
+,  // measure 6
+1000
+0000
+0001
+0300
+0020
+0000
+0001
+0000
+,  // measure 7
+1000
+0000
+0001
+0030
+0200
+0000
+0001
+0000
+,  // measure 8
+1000
+0000
+0001
+0300
+0020
+0000
+0001
+0000
+,  // measure 9
+1000
+0000
+0001
+0030
+0001
+0000
+1000
+0000
+,  // measure 10
+0001
+1000
+0001
+0010
+,  // measure 11
+1000
+0100
+0010
+0100
+,  // measure 12
+0010
+0100
+1000
+0010
+,  // measure 13
+0001
+0100
+0001
+1000
+,  // measure 14
+0001
+1000
+0000
+0000
+,  // measure 15
+0000
+0000
+0200
+0001
+,  // measure 16
+1000
+0000
+0001
+0300
+0020
+0000
+0001
+0000
+,  // measure 17
+1000
+0000
+0001
+0030
+0200
+0000
+0001
+0000
+,  // measure 18
+1000
+0000
+0001
+0300
+0020
+0000
+0001
+0000
+,  // measure 19
+1000
+0000
+0001
+0030
+0000
+0000
+0000
+0000
+;
